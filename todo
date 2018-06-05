@@ -1,0 +1,28 @@
+surfplan.com.au/sp/ -> Specialised CAD for paragliders
+
+simgleskin -> software for designing wings
+
+sourceforge.net/projects/singleskin
+
+Arduino
+-bluetooth shield for xbox controller
+- ultrasonic shield for landing
+
+* Program that takes and [x,y,z] starting point, a pair of sets [a,b] which is the flight path and position of toggles at any one time. Program follows flight path
+* Evaluates landing and the time taken to land & closeness
+
+- 3 m/s Descent Rate
+- Increase linearly to 53 m/s when turning. Increase rate of descent on corners
+- anything above 5 m/s is too hard an impact
+
+19 knots forward drive
+
+anexia-it.com/blog/en/introduction-to-the-phaser-framework/
+
+spriters-resource.com/snes/pilotwings/sheet/31600
+
+
+
+3D printed Fishing Reel for thingo
+https://goo.gl/4Wy6Nn
+https://www.thingiverse.com/thing:1999455
